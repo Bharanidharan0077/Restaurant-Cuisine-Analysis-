@@ -8,7 +8,7 @@ ratings distribution, and price trends across restaurants.
 Understand customer preferences and restaurant trends using data analysis.
 
 ## Dataset
-Source: Zomato Restaurant Dataset (Kaggle)
+Source: Restaurant Dataset (Kaggle)
 
 ## Tools Used
 Python
@@ -47,6 +47,12 @@ Restaurant-Cuisine-Analysis/
 │
 └── README.md/
 ```
+## Insights:
+
+1. North Indian cuisine dominates the dataset.
+2. Restaurants with table booking have higher ratings.
+3. Mid-price restaurants receive the highest number of reviews.
+4. Cities like Delhi have the highest restaurant density.
 ## Conclusion
 Restaurants focusing on popular cuisines and moderate pricing
 tend to attract more customers.
