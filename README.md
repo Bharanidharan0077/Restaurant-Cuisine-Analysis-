@@ -33,7 +33,7 @@ Jupyter Notebook
 ## 🏛️ Repository Structure
 Restaurant-Cuisine-Analysis
 │
-├── data
+├── data  
 │   └── restaurant_data.csv
 │
 ├── notebooks
