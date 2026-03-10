@@ -1,2 +1,38 @@
-# Restaurant-Cuisine-Analysis-
-Performed end-to-end exploratory data analysis on 8,000+ restaurant records. Identified top-performing cuisines and city-level revenue trends. Conducted price distribution and delivery impact analysis. Built data visualizations to support expansion strategy decisions. Improved reporting efficiency by 25% by developing structured dashboards.
+# Restaurant Cuisine Analysis
+
+## Project Overview
+This project analyzes restaurant data to identify the most popular cuisines,
+ratings distribution, and price trends across restaurants.
+
+## Problem Statement
+Understand customer preferences and restaurant trends using data analysis.
+
+## Dataset
+Source: Zomato Restaurant Dataset (Kaggle)
+
+## Tools Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
+
+## Steps Performed
+1. Data Cleaning
+2. Handling Missing Values
+3. Exploratory Data Analysis (EDA)
+4. Visualization
+5. Insights Generation
+
+## Key Insights
+• North Indian cuisine appears most frequently  
+• Restaurants with online delivery have higher ratings  
+• Mid-range pricing attracts more customers  
+
+## Visualizations
+(Add charts screenshots here)
+
+## Conclusion
+Restaurants focusing on popular cuisines and moderate pricing
+tend to attract more customers.
