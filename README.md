@@ -45,7 +45,38 @@ Restaurant-Cuisine-Analysis
 ├── requirements.txt
 │
 └── README.md
-
+```
+Restaurant-Performance-Analysis/
+│── README.md
+│── LICENSE
+│── datasets/
+│── notebooks/
+│── dashboards/
+│── reports/
+│── Level_1/
+│   ├── README.md
+│   ├── Top_Cuisines.ipynb
+│   ├── City_Analysis.ipynb
+│   ├── Price_Range_Distribution.ipynb
+│   ├── Online_Delivery.ipynb
+│── Level_2/
+│   ├── README.md
+│   ├── Restaurant_Ratings.ipynb
+│   ├── Cuisine_Combination.ipynb
+│   ├── Geographic_Analysis.ipynb
+│   ├── Restaurant_Chains.ipynb
+│── Level_3/
+│   ├── README.md
+│   ├── Restaurant_Reviews.ipynb
+│   ├── Votes_Analysis.ipynb
+│   ├── Price_Range_vs_Services.ipynb
+│── PowerBI_Screenshots/
+│   ├── dashboard.png
+│   ├── report.png
+│   ├── insights.png
+│── scripts/
+│── docs/
+```
 ## Conclusion
 Restaurants focusing on popular cuisines and moderate pricing
 tend to attract more customers.
