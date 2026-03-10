@@ -30,8 +30,21 @@ Jupyter Notebook
 • Restaurants with online delivery have higher ratings  
 • Mid-range pricing attracts more customers  
 
-## Visualizations
-(Add charts screenshots here)
+## 🏛️ Repository Structure
+Restaurant-Cuisine-Analysis
+│
+├── data
+│   └── restaurant_data.csv
+│
+├── notebooks
+│   └── cuisine_analysis.ipynb
+│
+├── images
+│   └── charts.png
+│
+├── requirements.txt
+│
+└── README.md
 
 ## Conclusion
 Restaurants focusing on popular cuisines and moderate pricing
