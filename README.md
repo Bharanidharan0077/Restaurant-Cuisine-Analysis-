@@ -31,7 +31,8 @@ Jupyter Notebook
 • Mid-range pricing attracts more customers  
 
 ## 🏛️ Repository Structure
-Restaurant-Cuisine-Analysis
+```
+Restaurant-Cuisine-Analysis/
 │
 ├── data  
 │   └── restaurant_data.csv
@@ -44,7 +45,7 @@ Restaurant-Cuisine-Analysis
 │
 ├── requirements.txt
 │
-└── README.md
+└── README.md/
 ```
 Restaurant-Performance-Analysis/
 │── README.md
