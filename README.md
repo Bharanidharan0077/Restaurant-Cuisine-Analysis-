@@ -11,12 +11,12 @@ Understand customer preferences and restaurant trends using data analysis.
 Source: Restaurant Dataset (Kaggle)
 
 ## Tools Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+Python/
+Pandas/
+NumPy/
+Matplotlib/
+Seaborn/
+Jupyter Notebook/
 
 ## Steps Performed
 1. Data Cleaning
