@@ -183,5 +183,3 @@ Restaurant-Cuisine-Analysis/
 ## 📝 **CONCLUSION**
 
 This is a **solid foundational data analysis project** with clean data and meaningful insights about restaurant preferences. The analysis correctly identifies North Indian cuisine dominance and mid-range pricing trends. However, the extreme concentration in Delhi (57%) limits geographic generalizability. The project would benefit from deeper statistical analysis, predictive modeling, and expanded visualizations to provide more actionable business intelligence.
-
-**Overall Rating: 7/10** - Good start, requires deeper analysis for advanced insights.
